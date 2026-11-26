@@ -2,18 +2,18 @@
   "format": "closer-update-manifest",
   "manifest_version": 1,
   "version": "0.2.0",
-  "released_at": "2026-11-23T05:44:30.175376+00:00",
+  "released_at": "2026-11-26T00:36:06.245792+00:00",
   "distribution": {
     "enabled": true
   },
   "artifacts": {
     "windows": {
-      "url": "https://github.com/Tadanosuke/closerai-releases/releases/download/v0.2.0/CLOSERAI-update-windows.zip",
+      "url": "https://github.com/Tadanosuke/closerai-releases/releases/download/v0.2.0/CloserAI-update-windows.zip",
       "sha256": "a1c9aae5b7df57ec52bb4348cb0a0643725cff0a143ad809b723a3b58bcc4ba3",
       "size": 15499931
     },
     "macos": {
-      "url": "https://github.com/Tadanosuke/closerai-releases/releases/download/v0.2.0/CLOSERAI-update-macos.zip",
+      "url": "https://github.com/Tadanosuke/closerai-releases/releases/download/v0.2.0/CloserAI-update-macos.zip",
       "sha256": "20e708eff65dd0301ee753462714cc5231b31155e1b5b31e44786a16d0479168",
       "size": 42592187
     }
@@ -22,5 +22,5 @@
     "summary": "",
     "cautions": ""
   },
-  "signature": "mEfcaDcjk1KbeP/Iu8htRcc89QeEYfSzCUPk/Uvnx8AUDEGTLGW/P04oAK/8Sga3qH+Hz05hI4BReL4+xjhaCA=="
+  "signature": "cZIy7PWLdKxmrgg/fJk4OObXZAEIjNsxiRVMfKk7T3VB6UXeLrZTZN3HRuJLHNGqFxFrD5wgteGC/6NXBjzrCA=="
 }
